@@ -23,7 +23,9 @@
 ## Programming Support
 
 - Rainbow Indent Delimiter
+- NeoClip - Yank Register
 
 ## Theming
 
 - TeleScope NvChad
+- Nvim ScrollBar

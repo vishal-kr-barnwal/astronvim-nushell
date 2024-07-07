@@ -29,6 +29,8 @@ return {
   { import = "astrocommunity.pack.typescript-all-in-one" },
   --- Programming Support
   { import = "astrocommunity.pack.rainbow-delimiter-indent-blankline" },
+  { import = "astrocommunity.register.nvim-neoclip-lua" },
   --- Theming
   { import = "astrocommunity.recipes.telescope-nvchad-theme" },
+  { import = "astrocommunity.scrolling.nvim-scrollbar" },
 }
