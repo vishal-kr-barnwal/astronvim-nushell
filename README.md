@@ -6,6 +6,7 @@
 
 - Lua
 - Rust
+- Dart + Flutter
 - Zig
 - Go
 - Docker

@@ -17,6 +17,7 @@ return {
   --- Language Pack
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.rust" },
+  { import = "astrocommunity.pack.dart" },
   { import = "astrocommunity.pack.zig" },
   { import = "astrocommunity.pack.yaml" },
   { import = "astrocommunity.pack.go" },
